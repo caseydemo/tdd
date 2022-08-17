@@ -13,4 +13,6 @@ class Article {
         return $slug;
     }
 
+    // test
+
 }
